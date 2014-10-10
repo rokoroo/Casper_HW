@@ -28,7 +28,10 @@ gets all the elements on the page with the class "foo"
 
 
 4. How would you select the hero image container?
+
+```javascript
 document.getElementsByClassName('rlHeroSection michelle-g-hero');
+```
 
 5. How many instances of the div tag are selected when you try to select by tag name?
 
